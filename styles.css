@@ -1,0 +1,48 @@
+body {
+    background-color: cornsilk;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 800px;
+}
+
+.recipe {
+    width: 600px;
+}
+
+h1,
+p,
+ol,
+ul{
+    font-family: "Brush Script MT", cursive;
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 60px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.startingpoint{
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 28px;
+    text-align: center;
+}
+
+a {
+    font-size: 30px;
+    background-color: lightblue;
+    color: green;
+}
